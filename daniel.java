@@ -1,7 +1,7 @@
 public class daniel{
 	public static void main(String[] args) {
 		for (int i=1;i<=10; i++) {
-			System.out.println("daniel like devops..."+i);
+			System.out.println("daniel daniel..."+i);
 		}
 	}
 }
